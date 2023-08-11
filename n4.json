@@ -1,0 +1,1798 @@
+{
+    "data": [
+        [
+            {
+                "jp": "みます",
+                "kj": "見ます",
+                "esp": "ver",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "さがします",
+                "kj": "探します",
+                "esp": "buscar",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "おくれます",
+                "kj": "遅れます",
+                "esp": "llegar tarde",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "まにあいます",
+                "kj": "間に会いまし",
+                "esp": "llegar a tiempo",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "やります",
+                "kj": "やります",
+                "esp": "hacer",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "ひろいます",
+                "kj": "拾います",
+                "esp": "Recoger",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "れんらくします",
+                "kj": "連絡します",
+                "esp": "avisar",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "きぶんがいい",
+                "kj": "気分がいい",
+                "esp": "encontrarse bien",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "きぶんがわるい",
+                "kj": "気分が悪い",
+                "esp": "encontrarse mal",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "ばしょ",
+                "kj": "場所",
+                "esp": "lugar",
+                "type": "n",
+                "lesson": 26
+            },
+            {
+                "jp": "へいじつ",
+                "kj": "平日",
+                "esp": "días festivos",
+                "type": "n",
+                "lesson": 26
+            },
+            {
+                "jp": "こんど",
+                "kj": "今度",
+                "esp": "próxima vez",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "ずいぶん",
+                "kj": "ずいぶん",
+                "esp": "muy, bastante",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "ちょくせつ",
+                "kj": "直接",
+                "esp": "directamente",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "いつでも",
+                "kj": "いつでも",
+                "esp": "cualquier hora/momento",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "どこでも",
+                "kj": "どこでも",
+                "esp": "cualquier sitio",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "だれでも",
+                "kj": "だれでも",
+                "esp": "cualquier persona",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "なんでも",
+                "kj": "何でも",
+                "esp": "cualquier cosa",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "こんな",
+                "kj": "こんな",
+                "esp": "cómo este",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "そんな",
+                "kj": "そんな",
+                "esp": "como ese",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "あんな",
+                "kj": "あんな",
+                "esp": "como aquél",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "かたづきます",
+                "kj": "片づきます",
+                "esp": "ordenar",
+                "type": "v",
+                "lesson": 26
+            },
+            {
+                "jp": "おぃば",
+                "kj": "置き場",
+                "esp": "lugar para poner algo",
+                "type": "n",
+                "lesson": 26
+            },
+            {
+                "jp": "よこ",
+                "kj": "横",
+                "esp": "lado, ancho",
+                "type": "adv",
+                "lesson": 26
+            },
+            {
+                "jp": "かいます",
+                "kj": "飼います",
+                "esp": "tener/criar",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "はしります",
+                "kj": "走ります",
+                "esp": "correr",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "みえます",
+                "kj": "見えます",
+                "esp": "verse",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "きこえます",
+                "kj": "聞こえます",
+                "esp": "escucharse",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "できます",
+                "kj": "できます",
+                "esp": "hacer,construir,terminar",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "ひらきます",
+                "kj": "開きます",
+                "esp": "recoger",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "しんぱい",
+                "kj": "しんぱい",
+                "esp": "preocuparse",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "こえ",
+                "kj": "声",
+                "esp": "voz",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "なみ",
+                "kj": "波",
+                "esp": "ola",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "どうぐ",
+                "kj": "道具",
+                "esp": "herramientas",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "マンション",
+                "kj": "マンション",
+                "esp": "edi. apartmentos",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "きょうしつ",
+                "kj": "教室",
+                "esp": "~ clase",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "ほかの",
+                "kj": "ほかの",
+                "esp": "otro",
+                "type": "adv",
+                "lesson": 27
+            },
+            {
+                "jp": "はっきり",
+                "kj": "はっきり",
+                "esp": "claramente",
+                "type": "adj",
+                "lesson": 27
+            },
+            {
+                "jp": "かぐ",
+                "kj": "家具",
+                "esp": "muebles",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "ほんたな",
+                "kj": "本棚",
+                "esp": "estantería",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "いつか",
+                "kj": "いつか",
+                "esp": "algún día",
+                "type": "adv",
+                "lesson": 27
+            },
+            {
+                "jp": "たてます",
+                "kj": "建てます",
+                "esp": "edificar",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "すばらしい",
+                "kj": "すばらしい",
+                "esp": "maravilloso",
+                "type": "adj",
+                "lesson": 27
+            },
+            {
+                "jp": "こどもたち",
+                "kj": "子どもたち",
+                "esp": "niños",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "だいすき",
+                "kj": "大好き",
+                "esp": "favorito",
+                "type": "adj",
+                "lesson": 27
+            },
+            {
+                "jp": "しゅじんこう",
+                "kj": "主人公",
+                "esp": "protagonista",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "かたち",
+                "kj": "形",
+                "esp": "forma",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "ふしぎ",
+                "kj": "不思議",
+                "esp": "extraño, misterioso",
+                "type": "adj",
+                "lesson": 27
+            },
+            {
+                "jp": "たとえば",
+                "kj": "例えば",
+                "esp": "por ejemplo",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "とびます",
+                "kj": "飛びます",
+                "esp": "volar",
+                "type": "v",
+                "lesson": 27
+            },
+            {
+                "jp": "むかし",
+                "kj": "昔",
+                "esp": "antiguamente",
+                "type": "adv",
+                "lesson": 27
+            },
+            {
+                "jp": "じぶん",
+                "kj": "自分",
+                "esp": "mi mismo",
+                "type": "adv",
+                "lesson": 27
+            },
+            {
+                "jp": "しょうらい",
+                "kj": "将来",
+                "esp": "futuro",
+                "type": "n",
+                "lesson": 27
+            },
+            {
+                "jp": "うれます",
+                "kj": "売れます",
+                "esp": "vender",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "おどります",
+                "kj": "踊ります",
+                "esp": "bailar",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "かみます",
+                "kj": "かみます",
+                "esp": "masticar",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "えらびます",
+                "kj": "選びます",
+                "esp": "elegir",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "かよいます",
+                "kj": "通います",
+                "esp": "ir regularmente",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "メモします",
+                "kj": "メモします",
+                "esp": "tomar notas",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "まじめ",
+                "kj": "まじめ",
+                "esp": "serio",
+                "type": "adj",
+                "lesson": 28
+            },
+            {
+                "jp": "ねっしん",
+                "kj": "熱心",
+                "esp": "entusiasmado",
+                "type": "adj",
+                "lesson": 28
+            },
+            {
+                "jp": "えらい",
+                "kj": "偉い",
+                "esp": "admirable",
+                "type": "adj",
+                "lesson": 28
+            },
+            {
+                "jp": "ちょうどいい",
+                "kj": "ちょうどいい",
+                "esp": "quedar bien fuku",
+                "type": "v",
+                "lesson": 28
+            },
+            {
+                "jp": "けしき",
+                "kj": "景色",
+                "esp": "paisaje",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "びよういん",
+                "kj": "美容院",
+                "esp": "peluquería",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "だいどころ",
+                "kj": "台所",
+                "esp": "cocina",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "けいきん",
+                "kj": "経錦",
+                "esp": "experiencia",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "ちから",
+                "kj": "力",
+                "esp": "fuerza",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "にんき",
+                "kj": "人気",
+                "esp": "popular",
+                "type": "adj",
+                "lesson": 28
+            },
+            {
+                "jp": "いろ",
+                "kj": "色",
+                "esp": "color",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "あじ",
+                "kj": "味",
+                "esp": "sabor",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "しなもの",
+                "kj": "品物",
+                "esp": "artículos",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "ねだん",
+                "kj": "値段",
+                "esp": "precio",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "きゅうりょう",
+                "kj": "給料",
+                "esp": "salario",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "ボーナス",
+                "kj": "ボーナス",
+                "esp": "bonus",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "かしゅ",
+                "kj": "歌手",
+                "esp": "cantante",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "しょうせつ",
+                "kj": "小説",
+                "esp": "novela",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "しょうせつか",
+                "kj": "小説家",
+                "esp": "novelista",
+                "type": "n",
+                "lesson": 28
+            },
+            {
+                "jp": "あきます",
+                "kj": "開きます",
+                "esp": "abrirse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "しまります",
+                "kj": "閉まります",
+                "esp": "cerrarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "つきます",
+                "kj": "つきます",
+                "esp": "encenderse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "きえます",
+                "kj": "消えます",
+                "esp": "apagarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "こわれます",
+                "kj": "壊れます",
+                "esp": "averiarse,romperse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "われます",
+                "kj": "割れます",
+                "esp": "romperse vaso",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "おれます",
+                "kj": "折れます",
+                "esp": "romperse rama",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "やぶれます",
+                "kj": "破れま",
+                "esp": "rasgarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "よごれます",
+                "kj": "汚れます",
+                "esp": "ensuciarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "つきます",
+                "kj": "付きます",
+                "esp": "ser puesto",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "はずれます",
+                "kj": "外れます",
+                "esp": "salirse caerse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "とまります",
+                "kj": "止まります",
+                "esp": "pararse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "まちがえます",
+                "kj": "まちがえます",
+                "esp": "equivocarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "おとします",
+                "kj": "落とします",
+                "esp": "caersele",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "かかります",
+                "kj": "掛かります",
+                "esp": "cerrarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "ふきます",
+                "kj": "ふきます",
+                "esp": "limpiar paño",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "とりかえます",
+                "kj": "取り替えます",
+                "esp": "cambiar",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "かたづけます",
+                "kj": "片づけます",
+                "esp": "poner en orden",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "さら",
+                "kj": "皿",
+                "esp": "plato",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "ちゃわん",
+                "kj": "ちゃわん",
+                "esp": "cuenco taza",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "ガラス",
+                "kj": "ガラス",
+                "esp": "cristal",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "ふくろ",
+                "kj": "袋",
+                "esp": "bolsa",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "えだ",
+                "kj": "枝",
+                "esp": "rama",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "えきいん",
+                "kj": "駅員",
+                "esp": "empleado estación",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "こうばん",
+                "kj": "交番",
+                "esp": "puesto policía",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "おさきにどうぞ",
+                "kj": "お先にどうぞ",
+                "esp": "váyase primero",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "あみだな",
+                "kj": "網棚",
+                "esp": "portaequipajes",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "じしん",
+                "kj": "地震",
+                "esp": "terremoto",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "かべ",
+                "kj": "壁",
+                "esp": "pared",
+                "type": "n",
+                "lesson": 29
+            },
+            {
+                "jp": "さします",
+                "kj": "指します",
+                "esp": "apuntar",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "たおれます",
+                "kj": "倒れます",
+                "esp": "caerse, derrumbarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "もえます",
+                "kj": "燃えます",
+                "esp": "quemarse",
+                "type": "v",
+                "lesson": 29
+            },
+            {
+                "jp": "にげます",
+                "kj": "逃げます",
+                "esp": "huir",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "さわぎます",
+                "kj": "騒ぎます",
+                "esp": "hacer ruido",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "あきらめます",
+                "kj": "あきらめます",
+                "esp": "desistir rendirse",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "なげます",
+                "kj": "投げます",
+                "esp": "lanzar",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "まもります",
+                "kj": "守ります",
+                "esp": "cumplir obedecer",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "はじまります",
+                "kj": "始まります",
+                "esp": "empezar",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "しゅっせきします",
+                "kj": "出席します",
+                "esp": "asistir",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "つたえます",
+                "kj": "伝えまし",
+                "esp": "comunicar transmitir",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "ちゅういします",
+                "kj": "注意します",
+                "esp": "tener cuidado",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "はずります",
+                "kj": "外れます",
+                "esp": "dejar lugar",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "もどります",
+                "kj": "戻ります",
+                "esp": "regresar volver",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "あります",
+                "kj": "あります",
+                "esp": "haber tener",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "だめ",
+                "kj": "だめ",
+                "esp": "no permitido",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "おなじ",
+                "kj": "同じ",
+                "esp": "igual equivalente",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "けいさつ",
+                "kj": "警察",
+                "esp": "comisaria",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "せき",
+                "kj": "席",
+                "esp": "asiento",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "マーク",
+                "kj": "マーク",
+                "esp": "marca símbolo",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "しめきり",
+                "kj": "締めきり",
+                "esp": "cierre plazo",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "きそく",
+                "kj": "規則",
+                "esp": "regla",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "きけん",
+                "kj": "危険",
+                "esp": "peligroso",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "しようきんし",
+                "kj": "使用禁止",
+                "esp": "no usar",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "たちいりきんし",
+                "kj": "立入禁止",
+                "esp": "prohibido entrar",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "じょこう",
+                "kj": "徐行",
+                "esp": "despacio",
+                "type": "adj",
+                "lesson": 33
+            },
+            {
+                "jp": "むりょう",
+                "kj": "無料",
+                "esp": "gratis",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "わりびき",
+                "kj": "割引",
+                "esp": "descuento",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "のみほうだい",
+                "kj": "飲み放題",
+                "esp": "barra libre",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "しようちゅう",
+                "kj": "使用中",
+                "esp": "en uso",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "どういう",
+                "kj": "どういう",
+                "esp": "qué ~",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "いくら〜ても",
+                "kj": "いくら〜ても",
+                "esp": "por más que ~",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "ちゅうしゃいはん",
+                "kj": "駐車違反",
+                "esp": "mal aparcado",
+                "type": "adj",
+                "lesson": 33
+            },
+            {
+                "jp": "ばっきん",
+                "kj": "罰金",
+                "esp": "multa",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "おきます",
+                "kj": "起きます",
+                "esp": "ocurrir",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "たすけあいます",
+                "kj": "助け合います",
+                "esp": "ayudarse mutuamente",
+                "type": "v",
+                "lesson": 33
+            },
+            {
+                "jp": "もともと",
+                "kj": "もともと",
+                "esp": "originalmente",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "かなしい",
+                "kj": "悲しい",
+                "esp": "triste",
+                "type": "adj",
+                "lesson": 33
+            },
+            {
+                "jp": "もっと",
+                "kj": "もっと",
+                "esp": "más",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "あいさつ",
+                "kj": "あいさつ",
+                "esp": "saludo",
+                "type": "n",
+                "lesson": 33
+            },
+            {
+                "jp": "あいて",
+                "kj": "相手",
+                "esp": "otra parte",
+                "type": "adv",
+                "lesson": 33
+            },
+            {
+                "jp": "きもち",
+                "kj": "気持ち",
+                "esp": "sentimiento sensación",
+                "type": "adj",
+                "lesson": 33
+            },
+            {
+                "jp": "うんどうします",
+                "kj": "運動します",
+                "esp": "hacer ejercicio",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "せいこうします",
+                "kj": "成功します",
+                "esp": "tener éxito",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "しっぱいします",
+                "kj": "失敗します",
+                "esp": "fracasar",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "ごうかくします",
+                "kj": "合格します",
+                "esp": "aprobar examen",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "やみます",
+                "kj": "",
+                "esp": "parar",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "はれます",
+                "kj": "晴れます",
+                "esp": "despejarse",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "くもります",
+                "kj": "曇ります",
+                "esp": "nublarse",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "つづきます",
+                "kj": "続きます",
+                "esp": "continuar",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "ひきます",
+                "kj": "",
+                "esp": "resfriarse",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "ひやします",
+                "kj": "冷やします",
+                "esp": "enfriar",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "こみます",
+                "kj": "込みます",
+                "esp": "congestionado",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "すきます",
+                "kj": "",
+                "esp": "descongestionar",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "でます",
+                "kj": "出ます",
+                "esp": "participar en",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "むりをします",
+                "kj": "無理をします",
+                "esp": "morir de trabajo",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "じゅうぶん",
+                "kj": "十分",
+                "esp": "suficiente",
+                "type": "adv",
+                "lesson": 32
+            },
+            {
+                "jp": "おかしい",
+                "kj": "",
+                "esp": "extraño gracioso",
+                "type": "adj",
+                "lesson": 32
+            },
+            {
+                "jp": "うるさい",
+                "kj": "",
+                "esp": "ruidoso",
+                "type": "adj",
+                "lesson": 32
+            },
+            {
+                "jp": "やけど",
+                "kj": "",
+                "esp": "quemadura",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "けが",
+                "kj": "",
+                "esp": "lesión herida",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "せき",
+                "kj": "",
+                "esp": "tos",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "インフルエンザ",
+                "kj": "",
+                "esp": "gripe",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "くしゃし",
+                "kj": "",
+                "esp": "estornudo",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "ぞら",
+                "kj": "空",
+                "esp": "cielo",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "たいよう",
+                "kj": "太陽",
+                "esp": "sol",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "ほし",
+                "kj": "星",
+                "esp": "estrella",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "かぜ",
+                "kj": "風",
+                "esp": "viento",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "ひがし",
+                "kj": "東",
+                "esp": "este",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "にし",
+                "kj": "西",
+                "esp": "oeste",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "みなみ",
+                "kj": "南",
+                "esp": "sur",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "きた",
+                "kj": "北",
+                "esp": "norte",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "すいどう",
+                "kj": "水道",
+                "esp": "agua corriente",
+                "type": "n",
+                "lesson": 32
+            },
+            {
+                "jp": "こんや",
+                "kj": "今夜",
+                "esp": "está noche",
+                "type": "adv",
+                "lesson": 32
+            },
+            {
+                "jp": "ゆうがた",
+                "kj": "夕方",
+                "esp": "noche",
+                "type": "adv",
+                "lesson": 32
+            },
+            {
+                "jp": "まえ",
+                "kj": "",
+                "esp": "antes",
+                "type": "adv",
+                "lesson": 32
+            },
+            {
+                "jp": "おそく",
+                "kj": "おぞく",
+                "esp": "tardarse",
+                "type": "adv",
+                "lesson": 32
+            },
+            {
+                "jp": "あがります",
+                "kj": "",
+                "esp": "subir ascender",
+                "type": "v",
+                "lesson": 32
+            },
+            {
+                "jp": "つづけます",
+                "kj": "続けます",
+                "esp": "continuar",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "みつけます",
+                "kj": "見つけます",
+                "esp": "encontrar",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "とります",
+                "kj": "取ります",
+                "esp": "tomar, obtener",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "うけます",
+                "kj": "受けます",
+                "esp": "presentarse examen",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "もうしこみます",
+                "kj": "申し込みます",
+                "esp": "inscribirse pedir",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "きゅうけいします",
+                "kj": "休憩します",
+                "esp": "tomar descanso",
+                "type": "v",
+                "lesson": 31
+            },
+            {
+                "jp": "れんきゅう",
+                "kj": "連休",
+                "esp": "días festivos",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "さくぶん",
+                "kj": "作文",
+                "esp": "redacción",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "はっぴょう",
+                "kj": "発表",
+                "esp": "presentación anuncio",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "てんらんかい",
+                "kj": "展覧会",
+                "esp": "exposición",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "けっこんしき",
+                "kj": "結婚式",
+                "esp": "boda",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "そうしき",
+                "kj": "葬式",
+                "esp": "funeral",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "しき",
+                "kj": "式",
+                "esp": "ceremonia",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "ほんしゃ",
+                "kj": "本社",
+                "esp": "oficina principal",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "してん",
+                "kj": "支店",
+                "esp": "sucursal",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "きょうかい",
+                "kj": "教会",
+                "esp": "iglesia",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "だいがくいん",
+                "kj": "大学院",
+                "esp": "escuela posgrado",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "どうぶつえん",
+                "kj": "動物園",
+                "esp": "zoológico",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "おんせん",
+                "kj": "温泉",
+                "esp": "aguas termales",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "かえり",
+                "kj": "帰り",
+                "esp": "vuelta",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "おこさん",
+                "kj": "お子さん",
+                "esp": "tu hijo",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "ーごう",
+                "kj": "ー号",
+                "esp": "número -",
+                "type": "adv",
+                "lesson": 31
+            },
+            {
+                "jp": "〜の ほう",
+                "kj": "",
+                "esp": "parte dirección rumbo",
+                "type": "adv",
+                "lesson": 31
+            },
+            {
+                "jp": "ずっと",
+                "kj": "",
+                "esp": "todo el tiempo",
+                "type": "adv",
+                "lesson": 31
+            },
+            {
+                "jp": "むら",
+                "kj": "村",
+                "esp": "pueblo",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "そつぎょうします",
+                "kj": "卒業します",
+                "esp": "graduarse",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "いや",
+                "kj": "嫌",
+                "esp": "molesto desagradable",
+                "type": "adj",
+                "lesson": 31
+            },
+            {
+                "jp": "とかい",
+                "kj": "都会",
+                "esp": "ciudad",
+                "type": "n",
+                "lesson": 31
+            },
+            {
+                "jp": "はります",
+                "kj": "はります",
+                "esp": "pegar fijar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "かけます",
+                "kj": "掛けます",
+                "esp": "colgar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "かざります",
+                "kj": "飾ります",
+                "esp": "decorar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "ならべます",
+                "kj": "並べます",
+                "esp": "poner en fila",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "うえます",
+                "kj": "植えます",
+                "esp": "plantar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "もどします",
+                "kj": "戻します",
+                "esp": "devolver reponer",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "まとめます",
+                "kj": "",
+                "esp": "reunir recopilar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "しまいます",
+                "kj": "",
+                "esp": "poner en su lugar guardar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "きめます",
+                "kj": "決めます",
+                "esp": "decidir determinar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "よしゅうします",
+                "kj": "予習します",
+                "esp": "preparar leccion",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "そのままにします",
+                "kj": "そのままにします",
+                "esp": "dejar como está",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "じゅぎょう",
+                "kj": "授業",
+                "esp": "clase",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "こうぎ",
+                "kj": "講義",
+                "esp": "conferencia",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "ミーティング",
+                "kj": "ミーティング",
+                "esp": "reunión",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "よてい",
+                "kj": "予定",
+                "esp": "plan programa",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "おしらせ",
+                "kj": "お知らせ",
+                "esp": "aviso",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "よていひょう",
+                "kj": "予定表",
+                "esp": "horario agenda",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "ごみばこ",
+                "kj": "ごみ箱",
+                "esp": "cubo basura",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "にんぎょう",
+                "kj": "人形",
+                "esp": "muñeca",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "かびん",
+                "kj": "花瓶",
+                "esp": "florero",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "かがみ",
+                "kj": "鏡",
+                "esp": "espejo",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "ひきだし",
+                "kj": "引き出し",
+                "esp": "cajón",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "げんかん",
+                "kj": "玄関",
+                "esp": "vestíbulo",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "ろうか",
+                "kj": "廊下",
+                "esp": "pasillo",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "かべ",
+                "kj": "壁",
+                "esp": "pared",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "いけ",
+                "kj": "池",
+                "esp": "laguna",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "もとのところ",
+                "kj": "元の所",
+                "esp": "lugar original",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "まわり",
+                "kj": "周り",
+                "esp": "alrededor",
+                "type": "adv",
+                "lesson": 30
+            },
+            {
+                "jp": "まんなか",
+                "kj": "真ん中",
+                "esp": "en el centro",
+                "type": "adv",
+                "lesson": 30
+            },
+            {
+                "jp": "すみ",
+                "kj": "隅",
+                "esp": "esquina rincón",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "まだ",
+                "kj": "",
+                "esp": "todavía",
+                "type": "adv",
+                "lesson": 30
+            },
+            {
+                "jp": "ひじょうぶくろ",
+                "kj": "非常袋",
+                "esp": "bolsa emergencia",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "ひじょうじ",
+                "kj": "非常時",
+                "esp": "emergencia",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "せいかつします",
+                "kj": "生活します",
+                "esp": "subsistir vivir",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "かいちゅうでんとう",
+                "kj": "懐中電灯",
+                "esp": "linterna",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "まるい",
+                "kj": "丸い",
+                "esp": "redondo",
+                "type": "adj",
+                "lesson": 30
+            },
+            {
+                "jp": "ある",
+                "kj": "ある",
+                "esp": "ある",
+                "type": "adv",
+                "lesson": 30
+            },
+            {
+                "jp": "ゆめをみます",
+                "kj": "夢を見ます",
+                "esp": "soñar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "うれしい",
+                "kj": "うれしい",
+                "esp": "feliz",
+                "type": "adj",
+                "lesson": 30
+            },
+            {
+                "jp": "すると",
+                "kj": "すると",
+                "esp": "entonces",
+                "type": "adv",
+                "lesson": 30
+            },
+            {
+                "jp": "しょうみきげん",
+                "kj": "賞味期限",
+                "esp": "fecha de caducidad",
+                "type": "n",
+                "lesson": 30
+            },
+            {
+                "jp": "じゅうでんします",
+                "kj": "充電します",
+                "esp": "cargar",
+                "type": "v",
+                "lesson": 30
+            },
+            {
+                "jp": "きいがい",
+                "kj": "きいがい",
+                "esp": "catastrofe",
+                "type": "n",
+                "lesson": 30
+            }
+        ]
+    ]
+}

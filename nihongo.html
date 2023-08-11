@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplo de importar JSON en JavaScript</title>
+</head>
+
+<body>
+    <h1>Ejemplo de importar JSON en JavaScript</h1>
+
+    <script src="index.js"></script>
+    <select id="selectOptionsLesson" onchange="setFilter('selectOptionsLesson')">
+        <option value="">Lesson...</option>
+        <option value=26>26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+        <option value="32">32</option>
+        <option value="33">33</option>
+        <option value="34">34</option>
+    </select>
+    <select id="selectOptionsType" onchange="setFilter('selectOptionsType')">
+        <option value="">Type...</option>
+        <option value="v">Verbos</option>
+        <option value="n">Nombres</option>
+        <option value="adj">Adjetivos</option>
+        <option value="adv">Adverbios</option>
+    </select>
+    <button onclick="startGame();">Jugar</button>
+    <p>
+    <div id="containerNihongo"></div>
+    </p>
+</body>
+
+</html>
