@@ -162,7 +162,7 @@ export const l37 = [
     },
     {
         "jp": "ーじゅう",
-        "kj": "中",
+        "kj": "ー中",
         "esp": "en todo -",
         "lesson": 37,
         "type": "adv"

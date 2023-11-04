@@ -11,7 +11,7 @@ export default function App() {
   const [menu, setmenu] = useState(false);
   const [game, setgame] = useState("questCard");
   const [start, setstart] = useState(false);
-  const [lesson, setlesson] = useState([26]);
+  const [lesson, setlesson] = useState([]);
   const [nivel, setnivel] = useState(0);
   const [changeType, setchangetype] = useState(false)
 
@@ -54,8 +54,8 @@ export default function App() {
 
       <View style={styles.container}>
         {!start ?
-          <Pressable style={styles.button} onPress={() => setstart(!start)}>
-            <Text style={styles.text}>Start Game</Text>
+          <Pressable style={styles.button} onPress={() => lesson.length > 0 ? setstart(!start) : setmenu(true)}>
+            <Text style={styles.text}>{lesson.length > 0 ? 'Start Game' : 'Select Lesson'}</Text>
           </Pressable>
           :
           <View>
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   button: {
     alignItems: 'center',
     justifyContent: 'center',
-    width: 160,
+    width: 170,
     height: 60,
     paddingVertical: 12,
     paddingHorizontal: 32,

@@ -1,5 +1,4 @@
 import { StyleSheet, View, Pressable, Text, Dimensions } from 'react-native';
-import FontAwesome from "@expo/vector-icons/FontAwesome";
 import { Entypo } from '@expo/vector-icons';
 
 var width = Dimensions.get('window').width; //full width

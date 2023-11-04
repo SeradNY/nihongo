@@ -232,7 +232,7 @@ export const l32 = [
     },
     {
         "jp": "まえ",
-        "kj": "",
+        "kj": "前",
         "esp": "antes",
         "type": "adv",
         "lesson": 32

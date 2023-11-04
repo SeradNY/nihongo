@@ -10,37 +10,48 @@ export default function MenuLateral({ nivel, setNivel, lesson, setLesson, game, 
     const [levels, setlevels] = useState(false)
     const [lessons, setlessons] = useState(false)
     const [games, setgames] = useState(false)
+    const minLesson = 26;
+    const maxLesson = 50;
 
+    useEffect(() => {
+        console.log("lessons leng", lesson.length, maxLesson - minLesson)
+    }, [lessons])
     const filterLessons = (newLesson) => {
         if (lesson.indexOf(newLesson) === -1) {
             if (newLesson.length > 2) {
-                console.log("2")
                 setLesson(newLesson)
             } else {
-                console.log("3")
                 setLesson([...lesson, newLesson])
             }
         } else {
-            console.log("4")
             const delItem = delArrayItem(lesson, lesson.indexOf(newLesson))
             setLesson(delItem)
         }
     }
 
-    const allLeassons = () => {
+    const setpartialLessons = (min, max) => {
+        console.log("partial", min, max)
         var all = [];
-        for (let i = 26; i <= 50; i++) {
+        for (let i = min; i <= max; i++) {
             all.push(i)
         }
         return all
     }
 
     const lessonsArray = [];
-    for (let i = 26; i <= 50; i++) {
+    var count = 0
+    for (let i = minLesson; i <= maxLesson; i++) {
+        if (count % 4 == 0 && (i + 3) < maxLesson) {
+            lessonsArray.push(
+                <Pressable onPress={() => filterLessons(setpartialLessons(i, i + 3))} key={`lesson-${i}-${i + 3}`}>
+                    <Text style={lesson.indexOf(i) !== -1 ? styles.active : styles.menuItemLabel}>{i}~{i + 3}</Text>
+                </Pressable>);
+        }
         lessonsArray.push(
             <Pressable onPress={() => filterLessons(i)} key={`lesson-${i}`}>
                 <Text style={lesson.indexOf(i) !== -1 ? styles.active : styles.menuItemLabel}>{i}</Text>
             </Pressable>);
+        count++;
     }
 
     const nivelArray = [];
@@ -75,8 +86,8 @@ export default function MenuLateral({ nivel, setNivel, lesson, setLesson, game, 
                 </View>
                 {lessons &&
                     <View style={styles.menuItemContainer}>
-                        <Pressable onPress={() => filterLessons(allLeassons())} key={`lesson-todo`}>
-                            <Text style={lesson.length > 3 ? styles.active : styles.menuItemLabel}>TODO</Text>
+                        <Pressable onPress={() => filterLessons(setpartialLessons(minLesson, maxLesson))} key={`lesson-todo`}>
+                            <Text style={lesson.length === maxLesson - minLesson + 1 ? styles.active : styles.menuItemLabel}>TODO</Text>
                         </Pressable>
                         {lessonsArray}
                     </View >

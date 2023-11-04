@@ -1,5 +1,6 @@
 import { StyleSheet, View, Pressable, Text, Dimensions } from 'react-native';
 import { useState, useEffect } from 'react';
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { getWordsLevel } from '../../api/APIJlpt';
 import * as lessons from "../../utils/constants/index"
 
@@ -12,9 +13,12 @@ var height = Dimensions.get('window').height; //full height
 export default function CardQuestion(props) {
     const [levelActive, setlevelActive] = useState(5);
     const [poolWords, setpoolWords] = useState(null)
+    const [allWords, setallWords] = useState(null)
     const [wordSelected, setlwordSelected] = useState();
-    const [correctWords, setlcorrectWords] = useState([]);
+    const [correctWords, setlcorrectWords] = useState([])
     const [transcription, setTranscription] = useState(null)
+    const [blur, setBlur] = useState(false)
+    const [save, setSave] = useState(true)
     const { lesson, type } = props
 
     const getWordsByLesson = () => {
@@ -32,6 +36,10 @@ export default function CardQuestion(props) {
     useEffect(() => {
         data && setpoolWords(data)
         data && getQuestionsWords()
+        data && setallWords(data)
+        if (save && window.localStorage.correctWords) {
+            setlcorrectWords(JSON.parse(window.localStorage.correctWords))
+        }
     }, [])
 
     useEffect(() => {
@@ -61,6 +69,7 @@ export default function CardQuestion(props) {
                     if (answer[variant].transcript === wordSelected.jp || answer[variant].transcript === wordSelected.kj) {
                         getQuestionsWords()
                         setlcorrectWords([...correctWords, wordSelected])
+                        window.localStorage['correctWords'] = JSON.stringify([...correctWords, wordSelected]);
                     }
                 }
             }
@@ -68,20 +77,21 @@ export default function CardQuestion(props) {
             if (wordSelected === answer) {
                 getQuestionsWords()
                 setlcorrectWords([...correctWords, wordSelected])
+                window.localStorage['correctWords'] = JSON.stringify([...correctWords, wordSelected]);
             }
         }
     }
 
-    console.log("type1", type)
-    console.log("lesson", lesson)
-
     return (
         <View>
+            <View style={styles.correctContainer}>
+                {wordSelected && <Text style={styles.corrects}>{correctWords.length}/{allWords.length}</Text>}
+            </View>
             <View style={styles.cardContainer}>
                 {wordSelected ? <Text style={styles.textWord}>{type ? wordSelected.kj || wordSelected.furigana : wordSelected.furigana || wordSelected.word || wordSelected.jp}</Text> : <Text>Loading...</Text>}
-            </View >
+            </View>
             {poolWords &&
-                <View style={styles.buttonAnsers}>
+                <View style={blur ? styles.blur : styles.buttonAnsers}>
                     <View>
                         {poolWords.map(function (object, i) {
                             return <ButtonAnswer key={`anwers-${i}`} label={poolWords[i].meaning || poolWords[i].esp} check={() => check(poolWords[i])} />;
@@ -92,11 +102,30 @@ export default function CardQuestion(props) {
                     </View>
                 </View>
             }
-        </View>
+            <Pressable style={styles.blurBtn} onPress={() => setBlur(!blur)}>
+                <Text style={styles.blurBtnTxt}>
+                    <MaterialCommunityIcons name="blur" size={24} color="white" />
+                </Text>
+            </Pressable>
+            <Pressable style={[styles.blurBtn, styles.blurBtnLeft]} onPress={() => { setSave(!save); window.localStorage.removeItem("correctWords") }}>
+                <Text style={styles.blurBtnTxt}>
+                    <MaterialCommunityIcons name="content-save" size={24} color={save ? "gray" : "white"} />
+                </Text>
+            </Pressable>
+        </View >
     );
 }
 
 const styles = StyleSheet.create({
+    correctContainer: {
+        position: "absolute",
+        right: 0,
+        paddingRight: "10px",
+        paddingTop: "5px",
+    },
+    corrects: {
+        color: "white",
+    },
     cardContainer: {
         display: 'flex',
         flexDirection: 'row',
@@ -119,5 +148,28 @@ const styles = StyleSheet.create({
         display: "flex",
         flexDirection: "column",
         justifyContent: "space-between",
+    },
+    blur: {
+        height: "70vh",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "space-between",
+        filter: "blur(10px)"
+    },
+    blurBtn: {
+        position: "absolute",
+        bottom: "0",
+        right: "10px",
+        padding: "10px",
+        width: "60px",
+        height: "60px",
+        textAlign: "center",
+        justifyContent: 'center',
+    },
+    blurBtnTxt: {
+        textAlign: "center"
+    },
+    blurBtnLeft: {
+        left: "10px",
     }
 });
